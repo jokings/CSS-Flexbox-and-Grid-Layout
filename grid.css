@@ -76,7 +76,10 @@ a {
 }
 
 @media (max-width: 760px) {
-    
+    main {
+        width: 70%
+    }
+            
     .first {
         height: 80px;
     }

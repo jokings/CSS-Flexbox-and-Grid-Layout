@@ -80,6 +80,10 @@ a {
     main {
         width: 70%
     }
+    
+    div {
+        border-radius: 10px;
+    }    
             
     .first {
         height: 80px;

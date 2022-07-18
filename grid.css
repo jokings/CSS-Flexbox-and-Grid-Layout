@@ -30,6 +30,7 @@ main {
 div {
     padding: 2em;
     text-align: center;
+    border-radius: 10px;
 }
 
 .first {
